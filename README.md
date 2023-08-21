@@ -1,6 +1,6 @@
 # New_Eir_Android_App
 
-NOTE: All I have left from this project is this demo, as I had assumed I would never need it again and deleted it to save storage space, a mis-step I will not be making again.
+NOTE: All I have left from this project is this demo, as I had assumed I would never need it again.
 
 Task: I was tasked with creating an Android app for my senior design team's final project. The project was a device that utilized UV-C to clean the cooling coil of air conditioning systems to reduce the spread of viral infections such as COVID-19, as well as keep the cooling coil mold-free. This device had a lot of various sensors for detecting UV and CO2 levels, for example. These readings were stored in a Google Sheet, similar to a Microsoft Spreadsheet. I was tasked with finding a way to get that data to an Android application.
 
